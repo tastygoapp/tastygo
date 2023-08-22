@@ -1,1 +1,3 @@
 # tastygo
+Project Description: 
+The Food Delivery System App "TastyGo" is a comprehensive Android application developed using Java in Android Studio, offering seamless food ordering and delivery services to users. The app integrates three distinct roles: Admin, User, and Delivery Partner. The User role allows users to browse restaurants, explore menus, add dishes to the cart, and place orders. Admins manage the app's content and oversee restaurants and menus. Delivery Partners receive and fulfill orders assigned to them. The application's backend is powered by Node.js, and the admin panel is developed using ReactJS.
