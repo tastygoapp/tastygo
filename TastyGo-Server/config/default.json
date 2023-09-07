@@ -1,0 +1,7 @@
+{
+    "PORT": 2000,
+    "host"     : "localhost",
+    "user"     : "root",
+    "password" : "manager",
+    "database" : "TastyGo"
+}
