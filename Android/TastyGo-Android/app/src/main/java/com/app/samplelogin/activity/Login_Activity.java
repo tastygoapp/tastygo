@@ -85,6 +85,7 @@ public class Login_Activity extends AppCompatActivity {
                         @Override
                         public void onFailure(Call<JsonObject> call, Throwable t) {
                             Log.e("some", t.toString() );
+			    Log.e("some", t.toString() );
                             Toast.makeText(Login_Activity.this, "Something went wrong", Toast.LENGTH_SHORT).show();
                         }
                     });
